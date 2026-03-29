@@ -7,7 +7,7 @@ data:
   index.html: |
     <!DOCTYPE html>
     <html>
-      <body style="background:#f44336; display:flex; align-items:center; justify-content:center; height:100vh; margin:0; font-family:sans-serif;">
-        <h1 style="color:white; font-size:4rem;">💥 Version 2 — BROKEN!</h1>
+      <body style="background:#4CAF50; display:flex; align-items:center; justify-content:center; height:100vh; margin:0; font-family:sans-serif;">
+        <h1 style="color:white; font-size:4rem;">✅ Version 1 — GitOps Works!</h1>
       </body>
     </html>
